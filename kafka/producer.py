@@ -1,0 +1,2 @@
+#kafka concepts
+#zookeeper server
